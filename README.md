@@ -1,4 +1,4 @@
-# bgc-project
+# Boys and Girls Club Project
 
 A communications app developed as a C# ASP.NET MVC Progressive Web App. This is designed to target the app store on mobile devices. 
 
